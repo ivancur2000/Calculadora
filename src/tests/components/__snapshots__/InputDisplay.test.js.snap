@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <InputDisplay /> Debe renderizar <InputDisplay /> correctamente 1`] = `
+<input
+  className="form-control"
+  disabled={true}
+  type="text"
+  value="123"
+/>
+`;

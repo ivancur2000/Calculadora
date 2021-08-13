@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <CalculatorApp /> El componente debe renderizarse correctamente 1`] = `
+<div
+  className="calculator__content"
+>
+  <h1>
+    Calculator App!!!!
+  </h1>
+  <InputDisplay
+    value={Array []}
+  />
+  <Keyboard
+    handleOnClickNumber={[Function]}
+    handleOnClickOperation={[Function]}
+    handleOnReset={[Function]}
+    handleOnResolve={[Function]}
+  />
+</div>
+`;

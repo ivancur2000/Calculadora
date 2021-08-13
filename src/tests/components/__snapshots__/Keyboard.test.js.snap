@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Keyboard /> Debe renderizar <Keyboard /> correctamente 1`] = `
+<div
+  className="flex flex-wrap"
+>
+  <div
+    className="row w-100"
+  >
+    <div
+      className="col-6 number__pad"
+    >
+      <button
+        className="btn btn-lg btn-success"
+        key="1"
+        onClick={[Function]}
+      >
+        1
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="2"
+        onClick={[Function]}
+      >
+        2
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="3"
+        onClick={[Function]}
+      >
+        3
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="4"
+        onClick={[Function]}
+      >
+        4
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="5"
+        onClick={[Function]}
+      >
+        5
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="6"
+        onClick={[Function]}
+      >
+        6
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="7"
+        onClick={[Function]}
+      >
+        7
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="8"
+        onClick={[Function]}
+      >
+        8
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="9"
+        onClick={[Function]}
+      >
+        9
+      </button>
+      <button
+        className="btn btn-lg btn-success"
+        key="0"
+        onClick={[Function]}
+      >
+        0
+      </button>
+    </div>
+    <div
+      className="col-6 operation__pad"
+    >
+      <button
+        className="btn btn-lg btn-warning"
+        onClick={[MockFunction]}
+      >
+        CE
+      </button>
+      <button
+        className="btn btn-lg btn-danger"
+        onClick={[MockFunction]}
+      >
+        =
+      </button>
+      <button
+        className="btn btn-lg btn-light"
+        key="+"
+        onClick={[Function]}
+      >
+        +
+      </button>
+      <button
+        className="btn btn-lg btn-light"
+        key="-"
+        onClick={[Function]}
+      >
+        -
+      </button>
+      <button
+        className="btn btn-lg btn-light"
+        key="/"
+        onClick={[Function]}
+      >
+        /
+      </button>
+      <button
+        className="btn btn-lg btn-light"
+        key="*"
+        onClick={[Function]}
+      >
+        *
+      </button>
+    </div>
+  </div>
+</div>
+`;

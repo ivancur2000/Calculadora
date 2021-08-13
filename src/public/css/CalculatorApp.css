@@ -1,0 +1,21 @@
+html{
+    font-family: -apple-system,sans-serif;
+}
+body{
+    background-color: rgb(71, 83, 100);
+    margin: 50px;
+}
+.calculator__content{
+    background-color: rgb(94, 108, 128);
+    border: 4px solid rgb(197, 210, 224);
+    border-radius: 20px;
+    padding: 50px;
+    width: 500px;
+}
+.btn{
+    width: 45px
+}
+button{
+    margin: 5px;
+    padding: 5px;
+}
